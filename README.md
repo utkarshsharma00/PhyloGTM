@@ -297,5 +297,5 @@ Sharma, U. (2025). Evaluating Guide Tree Merger with Alternative Tree Estimation
 ## Acknowledgements
 
 - This project was developed as part of a course at the University of Illinois Urbana-Champaign.
-- GTM implementation is based on the work by [Park et al., 2021](https://www.mdpi.com/1999-4893/14/5/148).
+- GTM implementation is based on the work by [Smirnov et al., 2020](https://github.com/vlasmirnov/GTM).
 - Special thanks to all collaborators and contributors to the phylogenetic methods used in this project.
