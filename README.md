@@ -159,6 +159,7 @@ PhyloGTM/
 │   ├── fix_tree_format.py          # Tree format fixing
 │   ├── gtm.py                      # Guide Tree Merger implementation
 │   ├── gtm_old.py                  # Original GTM implementation
+|   ├── run_phylogeny_analysis.sh      # Main execution script
 │   ├── runtime_memory_plots.py     # Runtime visualization
 │   ├── summarize_results.py        # Results summarization
 │   ├── summarize_gtm_results.py    # GTM-specific results
@@ -173,7 +174,6 @@ PhyloGTM/
 │   ├── hybrid_gtm3/        # Hybrid GTM 3 results
 │   ├── performance/        # Performance metrics
 │   └── summary/            # Summary statistics and plots
-├── run_phylogeny_analysis.sh      # Main execution script
 ├── requirements.txt               # Python dependencies
 └── README.md                      # This documentation
 ```
